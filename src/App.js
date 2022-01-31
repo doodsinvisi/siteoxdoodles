@@ -83,7 +83,7 @@ export const ResponsiveWrapper = styled.div`
   align-items: stretched;
   width: 100%;
   position: relative;
-  @media (min-width: 767px) {
+  @media (min-width: 100%) {
   flex-direction: row;
   }
 `;
