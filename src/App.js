@@ -59,6 +59,7 @@ export const StyledRoundButton = styled.button`
   font-size: 15px;
   color: #000000;
   width: 30px;
+  
   height: 30px;
   cursor: pointer;
   display: flex;
@@ -81,6 +82,7 @@ export const ResponsiveWrapper = styled.div`
   justify-content: stretched;
   align-items: stretched;
   width: 100%;
+  position: relative;
   @media (min-width: 767px) {
   flex-direction: row;
   }
@@ -97,6 +99,7 @@ export const StyledLogo = styled.img`
 `;
 export const Styledteam = styled.img`
   width: 771px;
+  position: relative;
   @media (min-width: 1500px) {
     width: 1550px;
   }
@@ -106,6 +109,7 @@ export const Styledteam = styled.img`
 
 export const StyledLog = styled.img`
   width: 250px;
+  position: relative;
   @media (min-width: 500px) {
     width: 500px;
   }
@@ -115,6 +119,7 @@ export const StyledLog = styled.img`
 
 export const Styledrm = styled.img`
   width: 500px;
+  position: relative;
   @media (min-width: 1000px) {
     width: 500px;
   }
@@ -124,6 +129,7 @@ export const Styledrm = styled.img`
 
 export const Styledlo = styled.img`
   width: 100px;
+  position: relative;
   @media (min-width: 100px) {
     width: 100px;
   }
@@ -135,6 +141,7 @@ export const StyledImg = styled.img`
   background-color: #0000;
   border-radius: 0%;
   width: 200px;
+  position: relative;
   @media (min-width: 900px) {
     width: 250px;
   }
