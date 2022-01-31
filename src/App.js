@@ -98,40 +98,40 @@ export const StyledLogo = styled.img`
   transition: height 0.5s;
 `;
 export const Styledteam = styled.img`
-  width: 771px;
+  width: 100%;
   position: relative;
-  @media (min-width: 1500px) {
-    width: 1550px;
+  @media (min-width: 100%) {
+    width: 100%;
   }
   transition: width 0.5s;
   transition: height 0.5s;
 `;
 
 export const StyledLog = styled.img`
-  width: 250px;
+  width: 100%;
   position: relative;
-  @media (min-width: 500px) {
-    width: 500px;
+  @media (min-width: 100%) {
+    width: 100%;
   }
   transition: width 0.5s;
   transition: height 0.5s;
 `;
 
 export const Styledrm = styled.img`
-  width: 500px;
+  width: 100%;
   position: relative;
-  @media (min-width: 1000px) {
-    width: 500px;
+  @media (min-width: 100%) {
+    width: 100%;
   }
   transition: width 0.5s;
   transition: height 0.5s;
 `;
 
 export const Styledlo = styled.img`
-  width: 100px;
+  width: 100%;
   position: relative;
-  @media (min-width: 100px) {
-    width: 100px;
+  @media (min-width: 100%) {
+    width: 100%;
   }
   transition: width 0.5s;
   transition: height 0.5s;
@@ -140,13 +140,13 @@ export const Styledlo = styled.img`
 export const StyledImg = styled.img`
   background-color: #0000;
   border-radius: 0%;
-  width: 200px;
+  width: 100%;
   position: relative;
-  @media (min-width: 900px) {
-    width: 250px;
+  @media (min-width: 100%) {
+    width: 100%;
   }
-  @media (min-width: 1000px) {
-    width: 500px;
+  @media (min-width: 100%) {
+    width: 100%;
   }
   transition: width 0.5s;
 `;
