@@ -87,9 +87,10 @@ export const ResponsiveWrapper = styled.div`
 `;
 
 export const StyledLogo = styled.img`
-  width: 250px;
-  @media (min-width: 1500px) {
-    width: 1600px;
+  width: 100%;
+  position: absolute;
+  @media (min-width: 100%) {
+    width: 100%;
   }
   transition: width 0.5s;
   transition: height 0.5s;
