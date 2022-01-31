@@ -88,7 +88,7 @@ export const ResponsiveWrapper = styled.div`
 
 export const StyledLogo = styled.img`
   width: 100%;
-  position: absolute;
+  position: relative;
   @media (min-width: 100%) {
     width: 100%;
   }
