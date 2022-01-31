@@ -1,0 +1,26 @@
+{
+  "CONTRACT_ADDRESS": "0x3D44253B2ad100be0f59D2862031aAf16c3Cc88b",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3d44253b2ad100be0f59d2862031aaf16c3cc88b",
+  "CONT": "CONTRACT",
+  "CONT_LINK": "https://rinkeby.etherscan.io/address/0x3d44253b2ad100be0f59d2862031aaf16c3cc88b",
+  "TWEET": "TWITTER",
+  "TWEET_LINK": "https://twitter.com/0xDoodlesNFT",
+  "DISC": "DISCORD",
+  "DISC_LINK": "https://discord.com/invite/tX36Nw464B",
+  "LOG": "CONTRACT",
+  "LOG_LINK": "https://rinkeby.etherscan.io/address/0x3d44253b2ad100be0f59d2862031aaf16c3cc88b",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "0xDoodles",
+  "SYMBOL": "0xDoodles",
+  "MAX_SUPPLY": 9800,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OPENSEA",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testdo-v4",
+  "SHOW_BACKGROUND": true
+}
