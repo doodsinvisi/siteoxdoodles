@@ -19,7 +19,7 @@
   "MAX_SUPPLY": 10000,
   "WEI_COST": 30000000000000000,
   "DISPLAY_COST": 0.03,
-  "GAS_LIMIT": 110000,
+  "GAS_LIMIT": 170000,
   "MARKETPLACE": "OPENSEA",
   "MARKETPLACE_LINK": "https://opensea.io/collection/0xdoodlesnft",
   "SHOW_BACKGROUND": true
