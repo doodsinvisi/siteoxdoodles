@@ -336,7 +336,7 @@ function App() {
                     >
                       0xDoodles
                     </s.TextDescription>
-              {data.totalSupply} / {CONFIG.MAX_SUPPLY}
+              {data.totalSupply} / 5000
             </s.TextTitle>
             <s.SpacerSmall />
             {Number(data.totalSupply) >= CONFIG.MAX_SUPPLY ? (
